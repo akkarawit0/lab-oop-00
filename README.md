@@ -1,3 +1,4 @@
 # lab-oop-00
-akkarawit
-6534501083
+ชื่อ : อัครวิชญ์ พบวงษา
+ID : 6534501083
+Akkarawit.p@kkumail.com
